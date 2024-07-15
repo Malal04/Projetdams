@@ -1,0 +1,10 @@
+.justify-end{
+    gap: 20px;
+}
+
+.btn-retour:hover {
+    color: rgb(226, 44, 44);
+}
+.min-h-screen{
+    background-color: #00052e;
+}
